@@ -1,0 +1,902 @@
+[
+  {
+    "id": 10044,
+    "url": "https://reco.nz/solve/10044",
+    "zbll": "R U R' U R U2' R' F R U' R' U' R U R' F' R U R' U' R' F R F'"
+  },
+  {
+    "id": 10045,
+    "url": "https://reco.nz/solve/10045",
+    "zbll": "r2' F2 r U2 r U' r' F R' F R F' r U'"
+  },
+  {
+    "id": 10046,
+    "url": "https://reco.nz/solve/10046",
+    "zbll": "R U' L' U R' U' L U' R U' L' U R' U' L"
+  },
+  {
+    "id": 10047,
+    "url": "https://reco.nz/solve/10047",
+    "zbll": "R U R' U R U2' R' U2' R2 D R' U2 R D' R' U2 R'"
+  },
+  {
+    "id": 10048,
+    "url": "https://reco.nz/solve/10048",
+    "zbll": "L U' R U R' L' U2 R U' R' U' R U' R'"
+  },
+  {
+    "id": 10049,
+    "url": "https://reco.nz/solve/10049",
+    "zbll": "F U R U2' R' U R U R' F' U'"
+  },
+  {
+    "id": 10050,
+    "url": "https://reco.nz/solve/10050",
+    "zbll": "R U2' R2' U' R2 U' R2' U2' R U2'"
+  },
+  {
+    "id": 10051,
+    "url": "https://reco.nz/solve/10051",
+    "zbll": "R' U2' R F U' R' U R U R' U R U' F' U2'"
+  },
+  {
+    "id": 10053,
+    "url": "https://reco.nz/solve/10053",
+    "zbll": "L' U' L U' L' U2 L U'"
+  },
+  {
+    "id": 10056,
+    "url": "https://reco.nz/solve/10056",
+    "zbll": "F R U R' U' R' F R2 U' R' U' R U R' F' F' U2"
+  },
+  {
+    "id": 10057,
+    "url": "https://reco.nz/solve/10057",
+    "zbll": "R U R' U R U' R' U' L' U2 R U2' R' U2' L"
+  },
+  {
+    "id": 10059,
+    "url": "https://reco.nz/solve/10059",
+    "zbll": "F R U' R' U R U R' U R U' R' F'"
+  },
+  {
+    "id": 10060,
+    "url": "https://reco.nz/solve/10060",
+    "zbll": "R' D' R U2 R' D R2 U' R' U2' R U R' U R U R' U2'"
+  },
+  {
+    "id": 10090,
+    "url": "https://reco.nz/solve/10090",
+    "zbll": "R' D' R U R' D R2 U R' U2' R U R'"
+  },
+  {
+    "id": 10091,
+    "url": "https://reco.nz/solve/10091",
+    "zbll": "L' U' L U' L' U2 L R U R' U' R' F R2 U' R' U' R U R' F' U"
+  },
+  {
+    "id": 10092,
+    "url": "https://reco.nz/solve/10092",
+    "zbll": "R U' L' U R' U2 L U R U' L' U M'"
+  },
+  {
+    "id": 10093,
+    "url": "https://reco.nz/solve/10093",
+    "zbll": "F R U R' U' F' R U R' U R U' R' U' R' F R F'"
+  },
+  {
+    "id": 10094,
+    "url": "https://reco.nz/solve/10094",
+    "zbll": "R U' R' U R2 U2' R' U' R U' R2' U R U' R' U'"
+  },
+  {
+    "id": 10247,
+    "url": "https://reco.nz/solve/10247",
+    "zbll": "L' U' L U' L' U2 L U'"
+  },
+  {
+    "id": 10701,
+    "url": "https://reco.nz/solve/10701",
+    "zbll": "R' U' R U' R' U2' R U R' U2' R U R' U R"
+  },
+  {
+    "id": 10702,
+    "url": "https://reco.nz/solve/10702",
+    "zbll": "F' R U2' R' U2' R' F R U R U' R' U'"
+  },
+  {
+    "id": 10703,
+    "url": "https://reco.nz/solve/10703",
+    "zbll": "L' U' L U' L' U2 L R U R' U R U2' R' U"
+  },
+  {
+    "id": 10704,
+    "url": "https://reco.nz/solve/10704",
+    "zbll": "R U R' U R U U' U R' U' R U2' R' U2 R' D' R U' R' D R U'"
+  },
+  {
+    "id": 10705,
+    "url": "https://reco.nz/solve/10705",
+    "zbll": "R' U2' R F U' R' U R U F' R' U R U2'"
+  },
+  {
+    "id": 11045,
+    "url": "https://reco.nz/solve/11045",
+    "zbll": "R U2' R' U' R U' R' U r U R' U' r' F R F' U'"
+  },
+  {
+    "id": 11046,
+    "url": "https://reco.nz/solve/11046",
+    "zbll": "R2 U R2' F' R U R' U R U2' R' F R2 U' R2'"
+  },
+  {
+    "id": 11047,
+    "url": "https://reco.nz/solve/11047",
+    "zbll": "R' U' R U' R' U R' D' R U R' D R2 U'"
+  },
+  {
+    "id": 11048,
+    "url": "https://reco.nz/solve/11048",
+    "zbll": "R U R' U F' U F U' F2 r U r' F U2'"
+  },
+  {
+    "id": 11049,
+    "url": "https://reco.nz/solve/11049",
+    "zbll": "R2 D R' U R D' R' U R' U' R U' R' U2'"
+  },
+  {
+    "id": 11303,
+    "url": "https://reco.nz/solve/11303",
+    "zbll": "R U R' U R U L' U R' U' L"
+  },
+  {
+    "id": 11322,
+    "url": "https://reco.nz/solve/11322",
+    "zbll": "L' U R U' L U R' U2'"
+  },
+  {
+    "id": 11323,
+    "url": "https://reco.nz/solve/11323",
+    "zbll": "R U R' U' R U' R' L U' R U R' L'"
+  },
+  {
+    "id": 11324,
+    "url": "https://reco.nz/solve/11324",
+    "zbll": "R U R' U R' U' R2 U' R2' U2' R"
+  },
+  {
+    "id": 11325,
+    "url": "https://reco.nz/solve/11325",
+    "zbll": "R' U2' F' R U R' U' R' F R U2' R"
+  },
+  {
+    "id": 11326,
+    "url": "https://reco.nz/solve/11326",
+    "zbll": "R' U2' R2 U R' U' R' U2' F' R U2 R U2' R' F U2'"
+  },
+  {
+    "id": 11380,
+    "url": "https://reco.nz/solve/11380",
+    "zbll": "R U2' R' U' L' U2 R U R' L U L' U L"
+  },
+  {
+    "id": 11381,
+    "url": "https://reco.nz/solve/11381",
+    "zbll": "R U R' U' R' U2' R U R' U R U' R U' R' U'"
+  },
+  {
+    "id": 11382,
+    "url": "https://reco.nz/solve/11382",
+    "zbll": "R' R L' U R U' L U' R D R' U2 R D' R2'"
+  },
+  {
+    "id": 11383,
+    "url": "https://reco.nz/solve/11383",
+    "zbll": "R U2' R' U' R U' R2' U2' R U R' U R U2'"
+  },
+  {
+    "id": 11384,
+    "url": "https://reco.nz/solve/11384",
+    "zbll": "R U R' U' R' F R F' r U R' U R U2' r' U'"
+  },
+  {
+    "id": 11507,
+    "url": "https://reco.nz/solve/11507",
+    "zbll": "R U R2' F' R U R U' R' F U R U2' R' U2"
+  },
+  {
+    "id": 11508,
+    "url": "https://reco.nz/solve/11508",
+    "zbll": "R U R2' F' R U2 R U2' R' F R U' R'"
+  },
+  {
+    "id": 11510,
+    "url": "https://reco.nz/solve/11510",
+    "zbll": "R U2' R2' U2' R2 U R2' U R2 U' R'"
+  },
+  {
+    "id": 11511,
+    "url": "https://reco.nz/solve/11511",
+    "zbll": "R U2' R' U' R U' R2' F' r U R U' r' F U'"
+  },
+  {
+    "id": 11676,
+    "url": "https://reco.nz/solve/11676",
+    "zbll": "R U R' U R2 D R' U2 R D' R2' U'"
+  },
+  {
+    "id": 11677,
+    "url": "https://reco.nz/solve/11677",
+    "zbll": "R2' D' R U2 R' D R U2 R U'"
+  },
+  {
+    "id": 11719,
+    "url": "https://reco.nz/solve/11719",
+    "zbll": "F R' F' r U R U' r' U"
+  },
+  {
+    "id": 11832,
+    "url": "https://reco.nz/solve/11832",
+    "zbll": "R' U2' F' R U R' U' R' F R U2' R U"
+  },
+  {
+    "id": 11833,
+    "url": "https://reco.nz/solve/11833",
+    "zbll": "L' U' L U' R r' F' R' F2 r U R U2' R' U'"
+  },
+  {
+    "id": 11834,
+    "url": "https://reco.nz/solve/11834",
+    "zbll": "R U' L' U R' U' L U R' U2' R U R' U R U2'"
+  },
+  {
+    "id": 11835,
+    "url": "https://reco.nz/solve/11835",
+    "zbll": "R' U' R U' R2 D' R U R' D R2 U' R' U2 R U"
+  },
+  {
+    "id": 11836,
+    "url": "https://reco.nz/solve/11836",
+    "zbll": "R' U' R U R U R' U' R' U F R U R U' R' F' U'"
+  },
+  {
+    "id": 11896,
+    "url": "https://reco.nz/solve/11896",
+    "zbll": "R U R' F' R U R' U R U' R' U' R' F R2 U' R' U"
+  },
+  {
+    "id": 11897,
+    "url": "https://reco.nz/solve/11897",
+    "zbll": "R U R' U F' U F U' F2 r U r' F U'"
+  },
+  {
+    "id": 11898,
+    "url": "https://reco.nz/solve/11898",
+    "zbll": "R' U' R U' R' U2' R U R' U' R U' R' U2' R U2"
+  },
+  {
+    "id": 11900,
+    "url": "https://reco.nz/solve/11900",
+    "zbll": "R' U2' R U' R D R' U' R D' R2' U R U' R' U R U'"
+  },
+  {
+    "id": 11918,
+    "url": "https://reco.nz/solve/11918",
+    "zbll": "R' D' R U R' D R2 U R' U2' R U' R' U' R U' R'"
+  },
+  {
+    "id": 11936,
+    "url": "https://reco.nz/solve/11936",
+    "zbll": "R' U' R U' R' U R' D' R U' R' D R U2 R U"
+  },
+  {
+    "id": 11937,
+    "url": "https://reco.nz/solve/11937",
+    "zbll": "R U R' F' R U R' U' R' F R2 U' R'"
+  },
+  {
+    "id": 11938,
+    "url": "https://reco.nz/solve/11938",
+    "zbll": "R U R' U' R' F R2 U' R' U' R U R' F' U'"
+  },
+  {
+    "id": 11939,
+    "url": "https://reco.nz/solve/11939",
+    "zbll": "R U2' R' U2 R U R2' D' R U2 R' D R2 U2' R' U"
+  },
+  {
+    "id": 11940,
+    "url": "https://reco.nz/solve/11940",
+    "zbll": "L' U' L U' L' U2 L R U R' U' R' F R2 U' R' U' R U R' F' U"
+  },
+  {
+    "id": 12038,
+    "url": "https://reco.nz/solve/12038",
+    "zbll": "R' D' R U R' D R U2 R U2' R' U R U R' U'"
+  },
+  {
+    "id": 12090,
+    "url": "https://reco.nz/solve/12090",
+    "zbll": "F R U R' U' R U' R' U' R U R' F' U'"
+  },
+  {
+    "id": 12091,
+    "url": "https://reco.nz/solve/12091",
+    "zbll": "r U' r U2' R' F R U2' r2' F"
+  },
+  {
+    "id": 12092,
+    "url": "https://reco.nz/solve/12092",
+    "zbll": "R' U' R U R2 F' R U R U' R' F U' R R' R U R' U R U2'"
+  },
+  {
+    "id": 12093,
+    "url": "https://reco.nz/solve/12093",
+    "zbll": "R' U' R U' R' U R U' R U R2' U R2 U2' r' U L L' U' L l' U"
+  },
+  {
+    "id": 12094,
+    "url": "https://reco.nz/solve/12094",
+    "zbll": "R U R' U R U' R2' D' R U R' D R2 U2' R' U'"
+  },
+  {
+    "id": 12095,
+    "url": "https://reco.nz/solve/12095",
+    "zbll": "R R' U R2' F2 R2 U' R' U' R' F R R' F R2 U R' F' F' R U'"
+  },
+  {
+    "id": 12132,
+    "url": "https://reco.nz/solve/12132",
+    "zbll": "R U R' U r' F R F' r R' U' R U' R'"
+  },
+  {
+    "id": 12135,
+    "url": "https://reco.nz/solve/12135",
+    "zbll": "R U R' U R U2' R' U R U2' R' U' R U' R' U2"
+  },
+  {
+    "id": 12136,
+    "url": "https://reco.nz/solve/12136",
+    "zbll": "r U R' U R' F R F' R U' R' U R U2' r' U2"
+  },
+  {
+    "id": 12212,
+    "url": "https://reco.nz/solve/12212",
+    "zbll": "R U2' R' U' R U' R' L' U2 L U L' U L U'"
+  },
+  {
+    "id": 12213,
+    "url": "https://reco.nz/solve/12213",
+    "zbll": "R2' D' R U R' D R U R U' R' U R U R' U R U2'"
+  },
+  {
+    "id": 12214,
+    "url": "https://reco.nz/solve/12214",
+    "zbll": "R U R' U R' U2' R2 U R2' U R2 U' R'"
+  },
+  {
+    "id": 12215,
+    "url": "https://reco.nz/solve/12215",
+    "zbll": "R U2' R' U' R U' R' U' R U R' U R U2' R'"
+  },
+  {
+    "id": 12216,
+    "url": "https://reco.nz/solve/12216",
+    "zbll": "F U R' U' R2 U' R2' U2' R F' L' U L"
+  },
+  {
+    "id": 12243,
+    "url": "https://reco.nz/solve/12243",
+    "zbll": "R' U' R F R' U R U' R' F' r U R U' r' U2"
+  },
+  {
+    "id": 12244,
+    "url": "https://reco.nz/solve/12244",
+    "zbll": "x' R2 U2' R' U2 R' F R F' r U' r' F R' F2"
+  },
+  {
+    "id": 12245,
+    "url": "https://reco.nz/solve/12245",
+    "zbll": "R' U' R U' R' U2 R' D' R U2 R' D R U2 R U2'"
+  },
+  {
+    "id": 12246,
+    "url": "https://reco.nz/solve/12246",
+    "zbll": "R U R' U R2 D R' U2 R D' R2' U2'"
+  },
+  {
+    "id": 12247,
+    "url": "https://reco.nz/solve/12247",
+    "zbll": "R' U R2 D r' U2 r D' R2' U' r r' R U2"
+  },
+  {
+    "id": 12293,
+    "url": "https://reco.nz/solve/12293",
+    "zbll": "R U R' U R U R' U' U' R' D' r U2 r' D R U"
+  },
+  {
+    "id": 12294,
+    "url": "https://reco.nz/solve/12294",
+    "zbll": "R U R' U R U' R2' F R F' R U' R' F' U F"
+  },
+  {
+    "id": 12295,
+    "url": "https://reco.nz/solve/12295",
+    "zbll": "R U2' R' U' R U' R2' R' D' R U2 R' D R U2 R"
+  },
+  {
+    "id": 12296,
+    "url": "https://reco.nz/solve/12296",
+    "zbll": "R' U' R U' R U R' U' R' U2' F R U R U' R' F' U'"
+  },
+  {
+    "id": 12297,
+    "url": "https://reco.nz/solve/12297",
+    "zbll": "R U R D R' U R r' U2 r D' R2' U2'"
+  },
+  {
+    "id": 12298,
+    "url": "https://reco.nz/solve/12298",
+    "zbll": "R U2 R D R' U2 R D' R2'"
+  },
+  {
+    "id": 12301,
+    "url": "https://reco.nz/solve/12301",
+    "zbll": "R' U' R U' R' U R U' R2' D' R U R' D R U R"
+  },
+  {
+    "id": 12302,
+    "url": "https://reco.nz/solve/12302",
+    "zbll": "R' U2' R2 U R2' U D' R U R' D R U2 R U' R'"
+  },
+  {
+    "id": 12303,
+    "url": "https://reco.nz/solve/12303",
+    "zbll": "L' U R U' L U R' F R' F' r U R U' r' U"
+  },
+  {
+    "id": 12304,
+    "url": "https://reco.nz/solve/12304",
+    "zbll": "r2' F2 r U2 r U' r' F R' F R F' r U"
+  },
+  {
+    "id": 12305,
+    "url": "https://reco.nz/solve/12305",
+    "zbll": "S R U R' U' R' F R S' R U R' U' F'"
+  },
+  {
+    "id": 12311,
+    "url": "https://reco.nz/solve/12311",
+    "zbll": "S' r' U2' R U R' U r U2' S U2'"
+  },
+  {
+    "id": 12312,
+    "url": "https://reco.nz/solve/12312",
+    "zbll": "R U2' R2' D' R U' R' D R2 U' R'"
+  },
+  {
+    "id": 12313,
+    "url": "https://reco.nz/solve/12313",
+    "zbll": "R U2' R' U' L' U2 R U R' L U L' U L"
+  },
+  {
+    "id": 12314,
+    "url": "https://reco.nz/solve/12314",
+    "zbll": "R U R' U R' D' R U R' D R U' R U2' R'"
+  },
+  {
+    "id": 12315,
+    "url": "https://reco.nz/solve/12315",
+    "zbll": "R U R' U R U2' R' U2' R2 D R' U2 R D' R' U2 R' U"
+  },
+  {
+    "id": 12344,
+    "url": "https://reco.nz/solve/12344",
+    "zbll": "F R U R' U' R' F' R U2 R U' R' U R U2' R' U"
+  },
+  {
+    "id": 12345,
+    "url": "https://reco.nz/solve/12345",
+    "zbll": "F U R2' D' R U' R' D R2 F' R' U R"
+  },
+  {
+    "id": 12346,
+    "url": "https://reco.nz/solve/12346",
+    "zbll": "R U R' U R U2' R' U R' U' R U' R' U2' R"
+  },
+  {
+    "id": 12347,
+    "url": "https://reco.nz/solve/12347",
+    "zbll": "R' U2' R2 U R' U' R' U2' F R U R U' R' F' U'"
+  },
+  {
+    "id": 12348,
+    "url": "https://reco.nz/solve/12348",
+    "zbll": "L' U2 R U' R' U U L R U' R' U2"
+  },
+  {
+    "id": 12349,
+    "url": "https://reco.nz/solve/12349",
+    "zbll": "R U R' U R U' R2' F' R U R U' R' F R U' R' U2"
+  },
+  {
+    "id": 12350,
+    "url": "https://reco.nz/solve/12350",
+    "zbll": "R2' D' r U2 r' D R U2 R U'"
+  },
+  {
+    "id": 12351,
+    "url": "https://reco.nz/solve/12351",
+    "zbll": "R U R' U R U2' R' U R U R' U R U2' R' U2"
+  },
+  {
+    "id": 12352,
+    "url": "https://reco.nz/solve/12352",
+    "zbll": "R U' L2' l U R' R U' l' L U R' U' L U' R U' L' U R' U' L U2"
+  },
+  {
+    "id": 12353,
+    "url": "https://reco.nz/solve/12353",
+    "zbll": "F R U' R' U' R U2' R' U' F' U R U R' U R U2' R'"
+  },
+  {
+    "id": 12354,
+    "url": "https://reco.nz/solve/12354",
+    "zbll": "R' D' R U R' D R2 U' R' U R U R' U' R U R' U'"
+  },
+  {
+    "id": 12355,
+    "url": "https://reco.nz/solve/12355",
+    "zbll": "R U R' U R U L U R' L' U2 L U L' U2"
+  },
+  {
+    "id": 12356,
+    "url": "https://reco.nz/solve/12356",
+    "zbll": "R U R' U R2 D R' U2 R D' R2' U"
+  },
+  {
+    "id": 12357,
+    "url": "https://reco.nz/solve/12357",
+    "zbll": "R U' R' U R U R' U' R U R' U R' D' R U R' D R U2"
+  },
+  {
+    "id": 12358,
+    "url": "https://reco.nz/solve/12358",
+    "zbll": "R' U R' D' R2 U2' R' U' R U' R2' D R U' R U'"
+  },
+  {
+    "id": 12359,
+    "url": "https://reco.nz/solve/12359",
+    "zbll": "F U' R U' R' U R U R' U2' R U2' R' U F'"
+  },
+  {
+    "id": 12360,
+    "url": "https://reco.nz/solve/12360",
+    "zbll": "R' U' R U' R' U R2 D R' U R D' R2' U R U' R' U R U2'"
+  },
+  {
+    "id": 12361,
+    "url": "https://reco.nz/solve/12361",
+    "zbll": "F R U' R' U R U R2' R R' D' R U R' D R2 U' R' F' U'"
+  },
+  {
+    "id": 12362,
+    "url": "https://reco.nz/solve/12362",
+    "zbll": "R' U' R U R U R' U' R' U R U R U' R' U"
+  },
+  {
+    "id": 12363,
+    "url": "https://reco.nz/solve/12363",
+    "zbll": "R' F' R U2 R U2' R' F U' R U' R' U"
+  },
+  {
+    "id": 12364,
+    "url": "https://reco.nz/solve/12364",
+    "zbll": "R U R2' D' R U R' D R2 U2' R' U'"
+  },
+  {
+    "id": 12365,
+    "url": "https://reco.nz/solve/12365",
+    "zbll": "R U' R2' U' D' R U' R' U2' D R2 U R' U'"
+  },
+  {
+    "id": 12366,
+    "url": "https://reco.nz/solve/12366",
+    "zbll": "F U' R' U R U F' R' U2 R U2'"
+  },
+  {
+    "id": 12367,
+    "url": "https://reco.nz/solve/12367",
+    "zbll": "L' R U R' U' L U R U R' U' R U' R' U2"
+  },
+  {
+    "id": 12368,
+    "url": "https://reco.nz/solve/12368",
+    "zbll": "F' R U R' U R U2' R' F U R U' R' U2 R U' R'"
+  },
+  {
+    "id": 12369,
+    "url": "https://reco.nz/solve/12369",
+    "zbll": "R U' R' U R U' L U L' U x' U2' R U2' R2' x U2"
+  },
+  {
+    "id": 12370,
+    "url": "https://reco.nz/solve/12370",
+    "zbll": "R U2' R' U' R U R' U' R' D' R U' R' D R2 U' R' U R U' R' U'"
+  },
+  {
+    "id": 12371,
+    "url": "https://reco.nz/solve/12371",
+    "zbll": "R2' D' r U2 r' D R U R U' R' U2 R U"
+  },
+  {
+    "id": 12372,
+    "url": "https://reco.nz/solve/12372",
+    "zbll": "R' U R2 D r' U2 r D' R2' U' R"
+  },
+  {
+    "id": 12373,
+    "url": "https://reco.nz/solve/12373",
+    "zbll": "L' R' U R U' L R' U' R U2' R' U2 R U2'"
+  },
+  {
+    "id": 12374,
+    "url": "https://reco.nz/solve/12374",
+    "zbll": "R U2' R' U R' D' R U' R' D R U' R U' R'"
+  },
+  {
+    "id": 12389,
+    "url": "https://reco.nz/solve/12389",
+    "zbll": "F U R' F R F' R U' R' U R U' R' F' U2"
+  },
+  {
+    "id": 12391,
+    "url": "https://reco.nz/solve/12391",
+    "zbll": "R U2' R' U' L' U2 R U R' L U L' U L U"
+  },
+  {
+    "id": 12392,
+    "url": "https://reco.nz/solve/12392",
+    "zbll": "R' U' U R U' R' U' R U R' F R U R' U' R' F' R2 U2'"
+  },
+  {
+    "id": 12393,
+    "url": "https://reco.nz/solve/12393",
+    "zbll": "F' R U2' R' U2' R' F R U R U' R' U'"
+  },
+  {
+    "id": 12394,
+    "url": "https://reco.nz/solve/12394",
+    "zbll": "F' r U R' U' r' F R U"
+  },
+  {
+    "id": 12395,
+    "url": "https://reco.nz/solve/12395",
+    "zbll": "R U' R2' U2' R F' U R' U' R F R' U2' R2 U R' U"
+  },
+  {
+    "id": 12396,
+    "url": "https://reco.nz/solve/12396",
+    "zbll": "L' U R U' L U2' R' U R' R R' U' R2 U' R' U R' U R"
+  },
+  {
+    "id": 12397,
+    "url": "https://reco.nz/solve/12397",
+    "zbll": "x' R2 D2 R' U U R D2 R' U2 R'"
+  },
+  {
+    "id": 12398,
+    "url": "https://reco.nz/solve/12398",
+    "zbll": "r U2' R2' F R F' R' F R F' R U2' r' U2"
+  },
+  {
+    "id": 12399,
+    "url": "https://reco.nz/solve/12399",
+    "zbll": "R' U' R U R' U' R2 D r' U2 r D' R2' U2' R U2"
+  },
+  {
+    "id": 12470,
+    "url": "https://reco.nz/solve/12470",
+    "zbll": "R U2' R' U' R U' R' U' R U R' U R U2' R' U'"
+  },
+  {
+    "id": 12471,
+    "url": "https://reco.nz/solve/12471",
+    "zbll": "R' U' R U' R2' D' R U2 R' D R2 U'"
+  },
+  {
+    "id": 12472,
+    "url": "https://reco.nz/solve/12472",
+    "zbll": "R U R' U R2 D R' U' R D' R2' U R U2' R' U'"
+  },
+  {
+    "id": 12473,
+    "url": "https://reco.nz/solve/12473",
+    "zbll": "R' U2' R2 U R2' U R2 U2' R' U'"
+  },
+  {
+    "id": 12474,
+    "url": "https://reco.nz/solve/12474",
+    "zbll": "R2' D' R U2 R' D R U2 R U'"
+  },
+  {
+    "id": 12488,
+    "url": "https://reco.nz/solve/12488",
+    "zbll": "R2 D r' U2 r R' U' R D' R' U' R' U2'"
+  },
+  {
+    "id": 12489,
+    "url": "https://reco.nz/solve/12489",
+    "zbll": "R' U' R U' R' U2' R U R' U2' R U R' U R U"
+  },
+  {
+    "id": 12490,
+    "url": "https://reco.nz/solve/12490",
+    "zbll": "R2 D R' U2 R D' R' U' R' U R U2' R' U2"
+  },
+  {
+    "id": 12491,
+    "url": "https://reco.nz/solve/12491",
+    "zbll": "R2 D R' U2 R D' R' U' R' U R U2' R' U2"
+  },
+  {
+    "id": 12492,
+    "url": "https://reco.nz/solve/12492",
+    "zbll": "R' U2' R U R' U R"
+  },
+  {
+    "id": 12493,
+    "url": "https://reco.nz/solve/12493",
+    "zbll": "R' U2' R U R2' D' R U2 R' D R U R U' R' U' R"
+  },
+  {
+    "id": 12494,
+    "url": "https://reco.nz/solve/12494",
+    "zbll": "R U R2' U' R2 U' R2' U2' R2 U2' R'"
+  },
+  {
+    "id": 12495,
+    "url": "https://reco.nz/solve/12495",
+    "zbll": "r U r' R U R' U' R U R' U' r U' r' F R U R' U' F' U2"
+  },
+  {
+    "id": 12496,
+    "url": "https://reco.nz/solve/12496",
+    "zbll": "R U' L' U R' U' L U' R U' L' U R' U' L"
+  },
+  {
+    "id": 12497,
+    "url": "https://reco.nz/solve/12497",
+    "zbll": "R U2' r' U U' r r' U U' r R' U2 R U R2' D' R U2 R' D R2 U2' R' U2'"
+  },
+  {
+    "id": 12499,
+    "url": "https://reco.nz/solve/12499",
+    "zbll": "r U' r U2' R' F R U2' r2' F U2'"
+  },
+  {
+    "id": 12500,
+    "url": "https://reco.nz/solve/12500",
+    "zbll": "L' R U R' U' L U2 R U2' R' U'"
+  },
+  {
+    "id": 12501,
+    "url": "https://reco.nz/solve/12501",
+    "zbll": "R' U2' R2 U R2' U R U' R U' R'"
+  },
+  {
+    "id": 12502,
+    "url": "https://reco.nz/solve/12502",
+    "zbll": "L' U R U' L U R2' U' R U' R' U2' R U"
+  },
+  {
+    "id": 12519,
+    "url": "https://reco.nz/solve/12519",
+    "zbll": "R' U2' R U R' U' R' D' R U2 R' D R2 U'"
+  },
+  {
+    "id": 12520,
+    "url": "https://reco.nz/solve/12520",
+    "zbll": "R' U2' F' R U R' U' R' F R2 U R' U R U"
+  },
+  {
+    "id": 12521,
+    "url": "https://reco.nz/solve/12521",
+    "zbll": "R U R' U R U2' R' U R U R' F' r U R' U' r' F R2 U' R' U"
+  },
+  {
+    "id": 12522,
+    "url": "https://reco.nz/solve/12522",
+    "zbll": "R U2' R2' U' R2 U' R' F U' R' U' R U F' U'"
+  },
+  {
+    "id": 12523,
+    "url": "https://reco.nz/solve/12523",
+    "zbll": "R' U2' R U R' U R U' R U2' R' U' R U' R'"
+  },
+  {
+    "id": 12524,
+    "url": "https://reco.nz/solve/12524",
+    "zbll": "R U' R' U R U' R' U' R U R2' D' R U' R' D R U'"
+  },
+  {
+    "id": 12525,
+    "url": "https://reco.nz/solve/12525",
+    "zbll": "F U R U2' R' U R2 D R' U R D' R2' F'"
+  },
+  {
+    "id": 12526,
+    "url": "https://reco.nz/solve/12526",
+    "zbll": "R U2' R' U' L' U2 R U R' L U L' U L U2'"
+  },
+  {
+    "id": 12527,
+    "url": "https://reco.nz/solve/12527",
+    "zbll": "R' U2' R2 U2' R2' U' R2 U' R2' U R"
+  },
+  {
+    "id": 12528,
+    "url": "https://reco.nz/solve/12528",
+    "zbll": "R' U' R U' R U2' R2' U' R2 U' R2' U R U"
+  },
+  {
+    "id": 12556,
+    "url": "https://reco.nz/solve/12556",
+    "zbll": "R' U' R U R' F R U R' U' R' F' R2 U'"
+  },
+  {
+    "id": 12562,
+    "url": "https://reco.nz/solve/12562",
+    "zbll": "R U R' U R U' R' U R U2' R' U"
+  },
+  {
+    "id": 12578,
+    "url": "https://reco.nz/solve/12578",
+    "zbll": "F R U R2' F R F' R U' R' F' U'"
+  },
+  {
+    "id": 12579,
+    "url": "https://reco.nz/solve/12579",
+    "zbll": "R U L' U R' U' L U' R U R' U2' R U2' R' U'"
+  },
+  {
+    "id": 12580,
+    "url": "https://reco.nz/solve/12580",
+    "zbll": "R' U' R' D' R U R' D R U' R U' R' U2 R U2'"
+  },
+  {
+    "id": 12581,
+    "url": "https://reco.nz/solve/12581",
+    "zbll": "R U R' U R U2' R' U' R U2' R' U' R U' R' U'"
+  },
+  {
+    "id": 12582,
+    "url": "https://reco.nz/solve/12582",
+    "zbll": "R U R' U F' U F U' F2 r U r' F U'"
+  },
+  {
+    "id": 12622,
+    "url": "https://reco.nz/solve/12622",
+    "zbll": "R U R' U' R' U' R U R U' R' U' R' U R"
+  },
+  {
+    "id": 12623,
+    "url": "https://reco.nz/solve/12623",
+    "zbll": "R' U2' R U R' U' R' D' r U2 r' D R2 U"
+  },
+  {
+    "id": 12625,
+    "url": "https://reco.nz/solve/12625",
+    "zbll": "R' U2' R U R' U R U' R U2' R' U' R U' R'"
+  },
+  {
+    "id": 12628,
+    "url": "https://reco.nz/solve/12628",
+    "zbll": "R U' R2' D' r U2 r' D R2 U R' U"
+  },
+  {
+    "id": 12630,
+    "url": "https://reco.nz/solve/12630",
+    "zbll": "R U2' R' U' R U' R2' U2' R U R' U R U'"
+  }
+]
