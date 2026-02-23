@@ -11,10 +11,72 @@ import re
 def clean_zbll_algs(algs):
     if not algs:
         return algs
+
+    def simplify_moves(moves):
+        def get_amount(move):
+            if move.endswith("'") and move[:-1].endswith("2"):
+                return 2
+            if move.endswith("2"):
+                return 2
+            if move.endswith("'"):
+                return 3
+            return 1
+
+        def get_base(move):
+            base = move
+            if base.endswith("'"):
+                base = base[:-1]
+            if base.endswith("2"):
+                base = base[:-1]
+            return base
+
+        def is_prime_quarter(move):
+            return move.endswith("'") and not move[:-1].endswith("2")
+
+        def build_move(base, amount, prefer_prime_double=False):
+            amount %= 4
+            if amount == 0:
+                return None
+            if amount == 1:
+                return base
+            if amount == 2:
+                if prefer_prime_double:
+                    return f"{base}2'"
+                return f"{base}2"
+            return f"{base}'"
+
+        simplified = []
+        for move in moves:
+            if not simplified:
+                simplified.append(move)
+                continue
+
+            last_move = simplified[-1]
+            if get_base(last_move) == get_base(move):
+                prefer_prime_double = is_prime_quarter(last_move) and is_prime_quarter(move)
+                new_move = build_move(
+                    get_base(move),
+                    get_amount(last_move) + get_amount(move),
+                    prefer_prime_double=prefer_prime_double
+                )
+                simplified.pop()
+                if new_move:
+                    simplified.append(new_move)
+            else:
+                simplified.append(move)
+
+        return simplified
+
+    algs = ' '.join(simplify_moves(algs.split()))
     
-    # Remove U, U', U2, U2' from the START
-    start_pattern = r"^U2?'?\s+"
-    while re.match(start_pattern, algs):
+    # Wrap leading U, U', U2, U2' in parentheses instead of removing
+    leading_moves = []
+    start_pattern = r"^(U2?'?)\s+"
+    while True:
+        match = re.match(start_pattern, algs)
+        if not match:
+            break
+        leading_moves.append(f"({match.group(1)})")
         algs = re.sub(start_pattern, '', algs, count=1)
     
     # Remove U, U', U2, U2' from the END
@@ -22,7 +84,12 @@ def clean_zbll_algs(algs):
     while re.search(end_pattern, algs):
         algs = re.sub(end_pattern, '', algs, count=1)
     
-    return algs.strip()
+    cleaned_algs = algs.strip()
+    if leading_moves:
+        if cleaned_algs:
+            return f"{' '.join(leading_moves)} {cleaned_algs}"
+        return ' '.join(leading_moves)
+    return cleaned_algs
 
 
 def get_zbll_algs(html_content, target_solver="Tymon Kolasiński"):
