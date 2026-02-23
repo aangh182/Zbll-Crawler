@@ -1,0 +1,13 @@
+2026-02-23 20:28:38 | INFO | Bắt đầu cào 4 người chơi từ ID 12639 đến 13139...
+2026-02-23 20:28:39 | INFO | [1/501] ID 12639: FOUND Xuanyi Geng - (U') R2' D' r U2 r' D R2 U R' U R
+2026-02-23 20:28:40 | INFO | [2/501] ID 12640: FOUND Xuanyi Geng - (U) R U2 R D R' U2 R D' R' U R' U R U2' R'
+2026-02-23 20:28:41 | INFO | [3/501] ID 12641: FOUND Xuanyi Geng - F R' F' r U R U' x' L2' U2 L U L' U L
+2026-02-23 20:28:42 | INFO | [4/501] ID 12642: FOUND Xuanyi Geng - (U) R' U2 R U2' R' U R U2' R' U R U2' R' U' R
+2026-02-23 20:28:42 | INFO | [5/501] ID 12643: Skip
+2026-02-23 20:28:43 | INFO | [6/501] ID 12644: Skip
+2026-02-23 20:28:44 | INFO | [7/501] ID 12645: Skip
+2026-02-23 20:28:45 | INFO | [8/501] ID 12646: Skip
+2026-02-23 20:28:45 | INFO | [9/501] ID 12647: Skip
+2026-02-23 20:28:46 | INFO | [10/501] ID 12648: Skip
+2026-02-23 20:28:47 | INFO | [11/501] ID 12649: 404 Not found -> Chạm đỉnh ID của web. DỪNG CÀO!
+2026-02-23 20:28:47 | INFO | Đã chạy xong! Lưu mốc ID mới cho tuần sau: 12648.

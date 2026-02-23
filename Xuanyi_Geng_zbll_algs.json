@@ -1,0 +1,24 @@
+[{
+  "id": 12639,
+  "url": "https://reco.nz/solve/12639",
+  "zbll": "(U') R2' D' r U2 r' D R2 U R' U R"
+}
+,
+{
+  "id": 12640,
+  "url": "https://reco.nz/solve/12640",
+  "zbll": "(U) R U2 R D R' U2 R D' R' U R' U R U2' R'"
+}
+,
+{
+  "id": 12641,
+  "url": "https://reco.nz/solve/12641",
+  "zbll": "F R' F' r U R U' x' L2' U2 L U L' U L"
+}
+,
+{
+  "id": 12642,
+  "url": "https://reco.nz/solve/12642",
+  "zbll": "(U) R' U2 R U2' R' U R U2' R' U R U2' R' U' R"
+}
+]
